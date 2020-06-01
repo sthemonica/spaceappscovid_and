@@ -1,0 +1,23 @@
+Below we can see the results for each image, the result we take into account is the value of r2, correlation coefficient.
+The loss mean is the metric that measures the cost function (gradient) when calculating synaptic weights. (in this case, we used MSE, mean squared error)
+(The images are in the folder, here only the data)
+
+*Image 023*
+Results:
+MSE: 12130016.313160015
+R^2 mean: 0.23841788841372447
+
+*Image 043*
+Results:
+MSE: 22812760.1908638
+R^2 mean: -0.4322973381676598
+
+*Image 064*
+Results:
+MSE: 26210349.316191487 
+R^2 mean: -0.6456147017694192
+
+*Image 099*
+MSE: 31853090.069730517
+R^2 mean: -0.9998937321736789
+
